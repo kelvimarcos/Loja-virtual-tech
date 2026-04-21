@@ -60,7 +60,7 @@ Foco maior em design e experiência do usuário
 ## 🌐 Acesse o Projeto
 
 Você pode visualizar o projeto diretamente pelo navegador: <br>
-👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/ <br>
+👉 [](https://kelvimarcos.github.io/Loja-virtual-tech/) <br>
 Basta clicar no link ou colar no navegador.
 
 <br>
