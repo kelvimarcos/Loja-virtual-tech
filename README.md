@@ -6,6 +6,15 @@ O objetivo é treinar construção de interfaces modernas, focando em design UI/
 <br>
 <br>
 
+## 📸 Capturas de Tela
+
+![Tela 1](img/tela-1.png)
+![Tela 2](img/tela-2.png)
+![Tela 3](img/tela-3.png)
+
+<br>
+<br>
+
 ## 🚀 Funcionalidades
 
 Exibição de produto em destaque (Hero Section) <br>
@@ -44,15 +53,6 @@ Estruturar projetos front-end de forma organizada
 
 Projeto desenvolvido para fins educacionais. Inspirado em interfaces modernas de produtos tecnológicos
 Foco maior em design e experiência do usuário
-
-<br>
-<br>
-
-## 📸 Capturas de Tela
-
-![Tela 1](img/tela-1.png)
-![Tela 2](img/tela-2.png)
-![Tela 3](img/tela-3.png)
 
 <br>
 <br>
